@@ -52,7 +52,8 @@ module.exports = {
       port: 8000,
       network_id: "*",
       gas: 6721975,
-      from: "0x5902c5b7853403bbbf1e3a3881d1f48b12365caa"
+      // from: "0x5902c5b7853403bbbf1e3a3881d1f48b12365caa"
+      from: "0x51a2f5c4b1361dbbaf0c0868b13cc028dfa385e8"
     }
     // Another network with more advanced options...
     // advanced: {
